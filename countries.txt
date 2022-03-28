@@ -1,0 +1,240 @@
+1 | China | 1,350 million people
+2 | India | 1,210 million people
+3 | United States | 309 million people
+4 | Indonesia | 233 million people
+5 | Brazil | 195 million people
+6 | Pakistan | 185 million people
+7 | Bangladesh | 164 million people
+8 | Nigeria | 158 million people
+9 | Russia | 140 million people
+10 | Japan | 127 million people
+11 | Mexico | 111 million people
+12 | Philippines | 93.6 million people
+13 | Vietnam | 89 million people
+14 | Ethiopia | 85 million people
+15 | Egypt | 84.5 million people
+16 | Germany | 82.1 million people
+17 | Turkey | 75.7 million people
+18 | Iran | 75.1 million people
+19 | Thailand | 68.1 million people
+20 | Democratic Republic of the Congo | 67.8 million people
+21 | France | 64.8 million people
+22 | United Kingdom | 61.9 million people
+23 | Italy | 60.1 million people
+24 | Myanmar | 50.5 million people
+25 | South Africa | 50.5 million people
+26 | South Korea | 48.5 million people
+27 | Colombia | 46.3 million people
+28 | Ukraine | 45.4 million people
+29 | Spain | 45.3 million people
+30 | Tanzania | 45 million people
+31 | Sudan | 43.2 million people
+32 | Kenya | 40.9 million people
+33 | Argentina | 40.7 million people
+34 | Poland | 38 million people
+35 | Algeria | 35.4 million people
+36 | Canada | 33.9 million people
+37 | Uganda | 33.8 million people
+38 | Morocco | 32.4 million people
+39 | Iraq | 31.5 million people
+40 | Nepal | 29.9 million people
+41 | Peru | 29.5 million people
+42 | Afghanistan | 29.1 million people
+43 | Venezuela | 29 million people
+44 | Malaysia | 27.9 million people
+45 | Uzbekistan | 27.8 million people
+46 | Saudi Arabia | 26.2 million people
+47 | Ghana | 24.3 million people
+48 | Yemen | 24.3 million people
+49 | North Korea | 24 million people
+50 | Mozambique | 23.4 million people
+51 | Taiwan | 23 million people
+52 | Syria | 22.5 million people
+53 | Ivory Coast | 21.6 million people
+54 | Australia | 21.5 million people
+55 | Romania | 21.2 million people
+56 | Sri Lanka | 20.4 million people
+57 | Madagascar | 20.1 million people
+58 | Cameroon | 20 million people
+59 | Angola | 19 million people
+60 | Chile | 17.1 million people
+61 | Netherlands | 16.7 million people
+62 | Burkina Faso | 16.3 million people
+63 | Niger | 15.9 million people
+64 | Kazakhstan | 15.8 million people
+65 | Malawi | 15.7 million people
+66 | Cambodia | 15.1 million people
+67 | Guatemala | 14.4 million people
+68 | Ecuador | 13.8 million people
+69 | Mali | 13.3 million people
+70 | Zambia | 13.3 million people
+71 | Senegal | 12.9 million people
+72 | Zimbabwe | 12.6 million people
+73 | Chad | 11.5 million people
+74 | Cuba | 11.2 million people
+75 | Greece | 11.2 million people
+76 | Portugal | 10.7 million people
+77 | Belgium | 10.7 million people
+78 | Czech Republic | 10.4 million people
+79 | Tunisia | 10.4 million people
+80 | Guinea | 10.3 million people
+81 | Rwanda | 10.3 million people
+82 | Dominican Republic | 10.2 million people
+83 | Haiti | 10.2 million people
+84 | Bolivia | 10 million people
+85 | Hungary | 9.97 million people
+86 | Belarus | 9.59 million people
+87 | Somalia | 9.36 million people
+88 | Sweden | 9.29 million people
+89 | Benin | 9.21 million people
+90 | Azerbaijan | 8.93 million people
+91 | Burundi | 8.52 million people
+92 | Austria | 8.39 million people
+93 | South Sudan | 8.26 million people
+94 | Honduras | 7.62 million people
+95 | Switzerland | 7.6 million people
+96 | Bulgaria | 7.5 million people
+97 | Serbia | 7.34 million people
+98 | Israel | 7.28 million people
+99 | Tajikistan | 7.07 million people
+100 | Hong Kong | 7.07 million people
+101 | Papua New Guinea | 6.89 million people
+102 | Togo | 6.78 million people
+103 | Libya | 6.55 million people
+104 | Jordan | 6.47 million people
+105 | Paraguay | 6.46 million people
+106 | Laos | 6.44 million people
+107 | El Salvador | 6.19 million people
+108 | Sierra Leone | 5.84 million people
+109 | Nicaragua | 5.82 million people
+110 | Kyrgyzstan | 5.55 million people
+111 | Denmark | 5.48 million people
+112 | Slovakia | 5.41 million people
+113 | Finland | 5.35 million people
+114 | Eritrea | 5.22 million people
+115 | Turkmenistan | 5.18 million people
+116 | Norway | 4.86 million people
+117 | Singapore | 4.84 million people
+118 | United Arab Emirates | 4.71 million people
+119 | Costa Rica | 4.64 million people
+120 | Ireland | 4.59 million people
+121 | Central African Republic | 4.51 million people
+122 | Croatia | 4.41 million people
+123 | West Bank | 4.41 million people
+124 | New Zealand | 4.3 million people
+125 | Lebanon | 4.26 million people
+126 | Georgia | 4.22 million people
+127 | Liberia | 4.1 million people
+128 | Puerto Rico | 4 million people
+129 | Bosnia and Herzegovina | 3.76 million people
+130 | Republic of the Congo | 3.76 million people
+131 | Moldova | 3.58 million people
+132 | Panama | 3.51 million people
+133 | Uruguay | 3.37 million people
+134 | Mauritania | 3.37 million people
+135 | Lithuania | 3.26 million people
+136 | Albania | 3.17 million people
+137 | Armenia | 3.09 million people
+138 | Kuwait | 3.05 million people
+139 | Oman | 2.91 million people
+140 | Jamaica | 2.73 million people
+141 | Mongolia | 2.7 million people
+142 | Kosovo | 2.42 million people
+143 | Latvia | 2.24 million people
+144 | Namibia | 2.21 million people
+145 | Lesotho | 2.08 million people
+146 | Macedonia | 2.04 million people
+147 | Slovenia | 2.03 million people
+148 | Botswana | 1.98 million people
+149 | Gambia | 1.75 million people
+150 | Guinea-Bissau | 1.65 million people
+151 | Gaza Strip | 1.6 million people
+152 | Qatar | 1.51 million people
+153 | Gabon | 1.5 million people
+154 | Trinidad and Tobago | 1.34 million people
+155 | Estonia | 1.34 million people
+156 | Mauritius | 1.3 million people
+157 | Swaziland | 1.2 million people
+158 | East Timor | 1.17 million people
+159 | Djibouti | 879000 people
+160 | Fiji | 854000 people
+161 | Bahrain | 807000 people
+162 | RÃ©union | 806000 people
+163 | Cyprus | 786873 people
+164 | Guyana | 761000 people
+165 | Bhutan | 708000 people
+166 | Equatorial Guinea | 693000 people
+167 | Comoros | 691000 people
+168 | Montenegro | 626000 people
+169 | Macau | 548000 people
+170 | Solomon Islands | 536000 people
+171 | Suriname | 524000 people
+172 | Cape Verde | 513000 people
+173 | Luxembourg | 492000 people
+174 | Guadeloupe | 467000 people
+175 | Western Sahara | 416758 people
+176 | Malta | 410000 people
+177 | Brunei | 407000 people
+178 | Martinique | 400000 people
+179 | Bahamas | 346000 people
+180 | Iceland | 329000 people
+181 | Maldives | 314000 people
+182 | Belize | 313000 people
+183 | French Polynesia | 272000 people
+184 | Barbados | 257000 people
+185 | New Caledonia | 254000 people
+186 | Vanuatu | 246000 people
+187 | Mayotte | 231139 people
+188 | French Guiana | 231000 people
+189 | Guam | 180000 people
+190 | Samoa | 179000 people
+191 | Saint Lucia | 174000 people
+192 | SÃ£o TomÃ© and PrÃ­ncipe | 165000 people
+193 | Curacao | 140794 people
+194 | Micronesia | 111000 people
+195 | Saint Vincent and the Grenadines | 109000 people
+196 | United States Virgin Islands | 109000 people
+197 | Aruba | 107000 people
+198 | Grenada | 104000 people
+199 | Tonga | 104000 people
+200 | Kiribati | 100000 people
+201 | Jersey | 91812 people
+202 | Antigua and Barbuda | 89000 people
+203 | Northern Mariana Islands | 88000 people
+204 | Andorra | 87000 people
+205 | Seychelles | 85000 people
+206 | Isle of Man | 76913 people
+207 | Dominica | 67000 people
+208 | American Samoa | 66432 people
+209 | Guernsey | 65632 people
+210 | Bermuda | 65000 people
+211 | Marshall Islands | 63000 people
+212 | Cayman Islands | 57000 people
+213 | Greenland | 57000 people
+214 | Saint Kitts and Nevis | 52000 people
+215 | Faroe Islands | 50000 people
+216 | Sint Maarten | 37429 people
+217 | Liechtenstein | 36000 people
+218 | Monaco | 33000 people
+219 | Turks and Caicos Islands | 33000 people
+220 | San Marino | 32000 people
+221 | Gibraltar | 28877 people
+222 | British Virgin Islands | 23000 people
+223 | Palau | 21000 people
+224 | Cook Islands | 20000 people
+225 | Wallis and Futuna Islands | 15343 people
+226 | Anguilla | 15000 people
+227 | Nauru | 10000 people
+228 | Tuvalu | 10000 people
+229 | Saint Helena | 7670 people
+230 | Saint Pierre and Miquelon | 7070 people
+231 | Montserrat | 6000 people
+232 | Falkland Islands | 3140 people
+233 | Svalbard | 2495 people
+234 | Norfolk Island | 2141 people
+235 | Christmas Island | 1462 people
+236 | Tokelau | 1416 people
+237 | Niue | 1000 people
+238 | Vatican City | 826 people
+239 | Cocos Keeling Islands | 605 people
+240 | Pitcairn Islands | 48 people
