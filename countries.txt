@@ -159,7 +159,6 @@
 159 | Djibouti | 879000 people
 160 | Fiji | 854000 people
 161 | Bahrain | 807000 people
-162 | RÃ©union | 806000 people
 163 | Cyprus | 786873 people
 164 | Guyana | 761000 people
 165 | Bhutan | 708000 people
@@ -189,7 +188,6 @@
 189 | Guam | 180000 people
 190 | Samoa | 179000 people
 191 | Saint Lucia | 174000 people
-192 | SÃ£o TomÃ© and PrÃ­ncipe | 165000 people
 193 | Curacao | 140794 people
 194 | Micronesia | 111000 people
 195 | Saint Vincent and the Grenadines | 109000 people
