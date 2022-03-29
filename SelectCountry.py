@@ -12,7 +12,9 @@ class SelectCountry():
             for line in lines:
                 parts = line.split(' | ')
                 population = self.get_population_from_line(parts[len(parts) - 1])
-                self.countries_dict[parts[1]] = population
+                continent = parts[0]
+                val = (population, continent)
+                self.countries_dict[parts[1]] = val
         
 
     #get a random country from the dictionary
@@ -28,4 +30,5 @@ class SelectCountry():
             removed_dec_pop = float(pop)*100
             return int(removed_dec_pop)*10000
         return int(pop)
+
 
