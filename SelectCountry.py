@@ -4,6 +4,7 @@ class SelectCountry():
     def __init__(self, countries_dict):
         #store countries and information in dictionary
         self.countries_dict = countries_dict
+        self.get_countries_from_file()
 
     #populate the dictionary with country and population key pairs
     def get_countries_from_file(self):

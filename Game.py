@@ -1,11 +1,11 @@
 from SelectCountry import SelectCountry
+
 countries_dict = {}
 select = SelectCountry(countries_dict)
-select.get_countries_from_file()
 
 #print information to user about population upon incorrect guess
 def give_population_hint(guess_country, mys_population):
-    guess_population = countries_dict[guess_country]
+    guess_population = countries_dict[guess_country][0]
     if mys_population > guess_population:
         print('Population of mystery Country ↑')
     if mys_population == guess_population:
@@ -35,19 +35,31 @@ def give_continent_hint(guess_con, mys_con):
 
 #main game loop
 def play():
+    #set game variables
     num_tries = 6
     game_won = False
 
+    #get random country and assign variables for its stats 
     mys_country = select.get_random_country()
     mys_population = countries_dict.get(mys_country)[0]
     mys_con = countries_dict.get(mys_country)[1]
-    print(mys_country)
+
+    #enter main game loop
     while num_tries >= 0 and game_won == False:
+        #game lost when user has no attempts left
         if num_tries == 0:
             print(f"No more guesses remaining. Correct Country was {mys_country}")
             return
 
+        #get user input for country guess
         guess_country = input("Guess a country: ")
+
+        #guessed country does not exist
+        if countries_dict.get(guess_country) == None:
+            print("Country does not exist. Try again.")
+            continue
+
+        #if country exists, assign variables for its stats
         guess_pop = countries_dict.get(guess_country)[0]
         guess_con = countries_dict.get(guess_country)[1]
         print(f'Your Guess: {guess_country}, Population: {guess_pop}, Continent: {guess_con}')
@@ -58,11 +70,7 @@ def play():
             game_won == True
             return
 
-        #guessed country does not exist
-        if countries_dict.get(guess_country) == None:
-            print("Country does not exist.")
-            num_tries = num_tries - 1
-
+        #provide hints for incorrect guess
         give_population_hint(guess_country, mys_population)
         give_name_hint(guess_country, mys_country)
         give_continent_hint(guess_con, mys_con)
